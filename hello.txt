@@ -1,0 +1,3 @@
+Hello! This is windows
+version: 12
+intel: 15
